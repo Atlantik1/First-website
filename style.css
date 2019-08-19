@@ -28,3 +28,9 @@ h1 {
 .memberBenefits i {font-size:200px;color:#fff;}
 .memberBenefits p {font-size:24px;color:#fff;margin-top:12px}
 .mBBox {background-color:red;padding:15px; border-radius:15px}
+
+
+.pBox{}
+.pBox img {z-index:-1}
+.pBox button{z-index:2;position:absolute;right:25%}
+.pBox button:hover {}
